@@ -17,9 +17,7 @@ Update Contact: Modify the details of an existing contact, including name, phone
 Delete Contact: Delete a contact from the database based on its name.
 
 # How to Use:
-Clone the repository to your local machine using the following command:
-
-git clone https://github.com/your-username/contact-management-system.git
+Clone the repository to your local machine
 
 Navigate to the project directory:
 
