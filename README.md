@@ -1,6 +1,6 @@
 # Contact_Management_System
 Contact Management System implemented in Python using the SQLite database. The system allows users to manage their contacts, including adding, displaying, searching, updating, and deleting contacts. 
-Contact Management System with SQLite Database and GUI
+Contact Management System with SQLite Database
 
 This repository contains a Contact Management System implemented in Python using SQLite database. The system allows users to manage their contacts, including adding, displaying, searching, updating, and deleting contacts. 
 # Project Overview:
